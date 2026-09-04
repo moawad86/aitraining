@@ -1,0 +1,6 @@
+{
+  "name": "منهج AI",
+  "description": "منصة SaaS B2B للمدربين ومراكز التدريب العربية لتحويل فكرة واحتياج الدورة إلى حقيبة تدريبية جاهزة وفق معايير التصميم التعليمي وتصنيف بلوم مع تصدير Word.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
